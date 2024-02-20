@@ -3,15 +3,15 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "7.0.9"
+      "Version": "7.0.10"
     },
-    "CreationDate": "2024-01-21T01:35:17+01:00"
+    "CreationDate": "2024-02-20T22:57:10+05:30"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "DeskHop",
       "GUID": "4465736b-486f-4702-9e6b-696361645f70",
-      "Revision": "rev?"
+      "Revision": "v1"
     },
     "Size": {
       "X": 66.9662,
@@ -24,10 +24,10 @@
   "DesignRules": [
     {
       "Layers": "Outer",
-      "PadToPad": 0.0,
-      "PadToTrack": 0.0,
+      "PadToPad": 0.2,
+      "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
-      "MinLineWidth": 0.5,
+      "MinLineWidth": 0.2,
       "TrackToRegion": 0.508,
       "RegionToRegion": 0.508
     }
